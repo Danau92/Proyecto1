@@ -18,3 +18,72 @@
     margin-left:44px;
     color: #4F5965;
 }
+
+.contenedor{
+    display:flex;
+    height: 282px;
+    padding: 26px 75px 45px;
+    justify-content:space-evenly;
+    background-color:rgb(240, 239, 239);
+}
+
+.imagenes{
+    width:318px; 
+    height:210px;
+}
+
+.info_container{
+    display: flex;
+    width: 100%;
+}
+
+
+
+.article{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:70%;
+    height: 650px; 
+}
+
+.contenedor2{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 780px;
+    height: 565px;
+    background-color:rgb(240, 239, 239);
+    margin-left: 128px;
+    justify-content: space-around;
+}
+
+.assaid{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    width: 30%;   
+    height: 650px;
+}
+
+.contenedor3{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.margin_title_aside{
+    margin-top: 17%;
+    margin-left: 20%
+}
+
+.margin_aside{
+    margin-top: 10%;
+    margin-left: 15%
+}
+
+.margin_paragraph_aside{
+    margin-top: 10%;
+    margin-left: 10%
+}
